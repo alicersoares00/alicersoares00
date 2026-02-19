@@ -26,13 +26,21 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
----
-
 ## GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicersoares00&theme=tokyonight"/>
 </p>
+
+## Languages
+
+<p align="center">
+    <a href="https://github.com/alicersoares00">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alicersoares00&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alicersoares00&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+
 
 ## 📫 Contato
 
@@ -49,3 +57,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
