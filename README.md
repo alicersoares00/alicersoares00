@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
- ⋆✴︎˚｡⋆ Ciência da Computação | Desenvolvimento Fullstack | 5° semestre ✰
+ ⋆✴︎˚｡⋆ Ciência da Computação | Desenvolvimento Fullstack | 6° semestre ✰
 </p>
 
 ## Stack 🐀
